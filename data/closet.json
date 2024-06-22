@@ -1,0 +1,50 @@
+{
+    "name": "kash's closet",
+    "clothes": [
+        {
+            "occasion": "Formal",
+            "name": "T-shirt",
+            "weather": "Sunny",
+            "wear": 10,
+            "temperature": 10,
+            "category": "Tops",
+            "colorPalette": "Grayscale"
+        },
+        {
+            "occasion": "Formal",
+            "name": "Corduroy Jacket",
+            "weather": "Sunny",
+            "wear": 10,
+            "temperature": 10,
+            "category": "Jackets",
+            "colorPalette": "Grayscale"
+        },
+        {
+            "occasion": "School",
+            "name": "Cardigan",
+            "weather": "Windy",
+            "wear": 10,
+            "temperature": 10,
+            "category": "Jackets",
+            "colorPalette": "ColorBlock"
+        },
+        {
+            "occasion": "Party",
+            "name": "cardigan",
+            "weather": "Rainy",
+            "wear": 10,
+            "temperature": 15,
+            "category": "Jackets",
+            "colorPalette": "Denim"
+        },
+        {
+            "occasion": "School",
+            "name": "Black Jeans",
+            "weather": "Windy",
+            "wear": 100,
+            "temperature": 15,
+            "category": "Bottoms",
+            "colorPalette": "Denim"
+        }
+    ]
+}

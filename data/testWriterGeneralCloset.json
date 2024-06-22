@@ -1,0 +1,12 @@
+{
+    "name": "My closet",
+    "clothes": [{
+        "occasion": "Lounge",
+        "name": "Gray T-shirt",
+        "weather": "Sunny",
+        "wear": 100,
+        "temperature": 15,
+        "category": "Tops",
+        "colorPalette": "Grayscale"
+    }]
+}
